@@ -100,7 +100,6 @@ body::before {
 }
 
 .container__imagem-pessoa:hover{
-    transform: rotateY(10deg) rotateX(10deg);
     box-shadow: 500px 0px 500px #00000080;
 }
 
